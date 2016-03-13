@@ -9,11 +9,11 @@ Compiles using cmake and make on Linux
 - Requires Leap SDK (Set environment variable `LEAP_SDK` to the sdk directory)
 - Requires Qt5
 
-    mkdir build
-    cd build
-    cmake ..
-    make
+        mkdir build
+        cd build
+        cmake ..
+        make
 
 # Usage
 Navigate to build directory
-    ./signLanguage
+        ./signLanguage
