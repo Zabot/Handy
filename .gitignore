@@ -1,0 +1,7 @@
+# Ignore compiled files
+build/
+*.o
+
+# Ignore backups
+*.swp
+*~
