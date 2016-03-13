@@ -16,4 +16,6 @@ Compiles using cmake and make on Linux
 
 # Usage
 Navigate to build directory
+
         ./signLanguage
+
