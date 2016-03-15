@@ -1,4 +1,4 @@
-b# Handy
+# Handy
 An American sign language recognizer using the Leap Motion controller
 - Recognizes the American sign language alphabet
 - Presents a word to be signed to the Leap Motion
